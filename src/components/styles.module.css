@@ -1,0 +1,33 @@
+.custom-bg {
+    background-color: #152238;
+    width:100%
+}
+
+div {
+    color: antiquewhite
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+}
+
+.footer-img{
+    width: 20px; 
+    height: 20px;
+    margin: 2px;
+    border-radius: 50%; 
+    background-color: #152238;
+    overflow: hidden; 
+}

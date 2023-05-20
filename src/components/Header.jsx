@@ -1,8 +1,13 @@
 import React from 'react'
+import Styles from './styles.module.css'
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <header>
+      <div className="custom-bg">
+        <div>Header</div>
+      </div>
+      </header>
   )
 }
 
