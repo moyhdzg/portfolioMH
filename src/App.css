@@ -10,7 +10,8 @@ header {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  max-height: 100px;
+  width: auto;
   padding: 20px;
 }
 
@@ -22,5 +23,30 @@ header {
 
 body{
   background-color:#152238;
+}
+
+.footerimg{
+  width: 20px; 
+  height: 20px;
+  margin: 2px;
+  border-radius: 50%; 
+  background-color: #152238;
+  overflow: hidden; 
+}
+
+.moylogo{
+  max-height: 150px;
+  margin: 2px; 
+  background-color: #152238;
+  overflow: hidden; 
+}
+
+.skill {
+  width: auto; 
+  height: 60px;
+  margin: 2px;
+  border-radius: 20%; 
+  background-color: #152238;
+  overflow: hidden; 
 }
 
