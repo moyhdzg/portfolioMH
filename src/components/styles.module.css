@@ -54,3 +54,21 @@ footer {
     background-color: #152238;
     overflow: hidden; 
 }
+Col {
+    text-align: center;
+    align-items: center
+  
+  }
+  
+  Container {
+    text-align: center;
+    align-items: center;
+  
+  }
+  
+  
+  Row {
+    text-align: center;
+    align-items: center
+  }
+  

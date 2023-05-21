@@ -53,6 +53,24 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+Col {
+  text-align: center;
+  align-items: center
+
+}
+
+Container {
+  text-align: center;
+  align-items: center;
+
+}
+
+
+Row {
+  text-align: center;
+  align-items: center
+}
+
 
 button {
   border-radius: 8px;

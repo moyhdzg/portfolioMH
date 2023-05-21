@@ -15,6 +15,34 @@ header {
   padding: 20px;
 }
 
+.moyPic{
+  width: 300px; 
+  height: 300px;
+  margin: 0px;
+  border-radius: 50%; 
+  background-color: #152238;
+  overflow: hidden;
+}
+
+Col {
+  text-align: center;
+  align-items: center
+
+}
+
+.descHome {
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+
+}
+
+
+Row {
+  text-align: center;
+  align-items: center
+}
+
 .custom-bg {
   background-color: #152238;
   width: 100%
