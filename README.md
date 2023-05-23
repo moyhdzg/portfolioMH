@@ -12,7 +12,7 @@ Proyecto 6 - PortaFolio de Bootcamp FullStack de Moisés Hernández
 
 ## Deploy
 
-El deploy del proyecto se encuentra en: [Deploy en Netlify](https://soft-kringle-193e9d)
+El deploy del proyecto se encuentra en: [Deploy en Netlify](https://soft-kringle-193e9d.netlify.app/)
 
 ## Créditos
 
