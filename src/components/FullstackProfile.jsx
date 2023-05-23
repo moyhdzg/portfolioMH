@@ -15,21 +15,61 @@ const FullstackProfile = () => {
       <header><Header/></header>
       <Container>
       <Row>
+        <h1>Projectos!</h1> 
+      </Row>
+      <Row>
         <Col>
-          <p>Projectos!</p> 
-        </Col>
-        <Col>
-          <Row><Col>Landing Page</Col><Col><Row>Repo</Row><Row>Deploy</Row></Col></Row>
-          <Row><Col>CRUD</Col><Col><Row>Repo</Row><Row>Deploy</Row></Col></Row>
-          <Row><Col>Dashboard</Col><Col><Row>Repo</Row><Row>Deploy</Row></Col></Row>
-          <Row><Col>RestaurantApp</Col><Col><Row>Repo</Row><Row>Deploy</Row></Col></Row>
-          <Row><Col>eCommerce</Col><Col><Row>Repo</Row><Row>Deploy</Row></Col></Row>
-          <Row><Col>Portfolio</Col><Col>Es la página donde te encuentras!</Col></Row>
+          <Row>
+            <Col>Landing Page</Col>
+            <Col>
+              <Row><a href="https://github.com/moyhdzg/LandingPage.io.git">Landing Page Repo</a></Row>
+              <Row><a href="https://www.example.com">Landing Page Deploy</a></Row>
+            </Col>
+          </Row>
+          <Row>
+            <Col>CRUD</Col>
+            <Col>
+              <Row><a href="https://github.com/moyhdzg/moyhdzg.github.io">CRUD Repo</a></Row>
+              <Row><a href="https://www.example.com">CRUD Deploy</a></Row>
+            </Col>
+          </Row>
+          <Row>
+            <Col>RestaurantApp</Col>
+            <Col>
+              <Row><a href="https://github.com/moyhdzg/RestaurantApp">RestaurantApp Repo</a></Row>
+              <Row><a href="https://dazzling-flan-c3dd8d.netlify.app/">RestaurantApp Deploy</a></Row>
+            </Col>
+          </Row>
+          <Row>
+            <Col>Tabla De Datos "Dashboard"</Col>
+            <Col>
+              <Row><a href="https://github.com/moyhdzg/Proyecto3Equipo6">Dashboard Repo</a></Row>
+              <Row><a href="https://aesthetic-buttercream-14a564.netlify.app/">Dashboard Deploy</a></Row>
+            </Col>
+          </Row>
+          <Row>
+            <Col>eCommerce</Col>
+            <Col>
+              <Row> 
+                <Row>
+                  <a href="https://github.com/moyhdzg/front-eCommerce">eCommerce Front Repo</a>
+                </Row>
+                <Row>
+                  <a href="https://github.com/moyhdzg/back-eCommerce">eCommerce Back Repo</a>
+                </Row>
+               </Row>
+              <Row><a href="https://front-e-commerce.vercel.app/">eCommerce Deploy</a></Row>
+            </Col>
+          </Row>
+          <Row>
+            <Col>Portfolio</Col>
+            <Col>Es la página donde te encuentras!</Col>
+          </Row>
         </Col>        
       </Row>
       <Row>
         <Row>
-          <p>Habilidades adquiridas y en proceso de mejora!</p>
+          <h1>Habilidades adquiridas y en proceso de mejora!</h1>
         </Row>
         <Row>
           <Col>
