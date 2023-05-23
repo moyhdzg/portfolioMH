@@ -3,8 +3,16 @@
     width:100%
 }
 
+.proyectos{
+    align-items: center;
+}
+
 div {
     color: antiquewhite
+}
+.Card {
+    color: antiquewhite;
+    background-color: #152238
 }
 
 header {

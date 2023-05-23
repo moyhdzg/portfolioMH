@@ -14,6 +14,14 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+.Card {
+  color: antiquewhite;
+  background-color: #152238
+}
+.proyectos{
+  align-items: center;
+}
+
 .custom-bg {
   background-color: #152238;
   width:100%

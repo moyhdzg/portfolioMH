@@ -6,6 +6,13 @@
   background-color: #152238;
 }
 
+.proyectos{
+  align-items: center;
+}
+.Card {
+  color: antiquewhite;
+  background-color: #152238
+}
 header {
   position: fixed;
   top: 0;
