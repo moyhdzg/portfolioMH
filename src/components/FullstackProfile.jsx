@@ -25,7 +25,7 @@ const FullstackProfile = () => {
             <Card.Body>
               <Card.Title>Landing Page</Card.Title>
               <Button variant="black"><a href="https://github.com/moyhdzg/LandingPage.io.git">Landing Page Repo</a></Button>
-              <Button variant="black" text='antiquewhite'><a href="https://www.example.com">Landing Page Deploy</a></Button>
+              <Button variant="black" text='antiquewhite'><a href="https://fanciful-twilight-52e421.netlify.app">Landing Page Deploy</a></Button>
             </Card.Body>
           </Card>
         </Col>
